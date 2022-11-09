@@ -1,5 +1,7 @@
 # Desafio: Rocketflix
 
+Você pode testar o Rocketflix clonando este repositório ou acessando o link web do sobre (About).
+
 ## Créditos
 Layout e desafio elaborado pela [Rocktseat](https://github.com/rocketseat-education).
 
